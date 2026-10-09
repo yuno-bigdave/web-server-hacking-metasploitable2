@@ -46,12 +46,9 @@ The report identifies a backdoored version of `vsftpd 2.3.4`. In the lab, report
 web-server-hacking-metasploitable2/
 ├── README.md
 ├── report/
-│   └── web-server-hacking-report.pdf
-├── .gitignore
+│   └── Web Server Hacking- Ethical Hacking Project Report.pdf
 └── LICENSE
 ```
-
-The complete project report is available at [`report/web-server-hacking-report.pdf`](report/web-server-hacking-report.pdf).
 
 ## Scope and responsible-use statement
 
