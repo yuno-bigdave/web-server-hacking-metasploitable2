@@ -30,7 +30,7 @@ The original report records the target lab address as `192.168.56.101`. This is 
 
 ## Key finding
 
-The report identifies a backdoored version of `vsftpd 2.3.4`. In the lab, the team reports obtaining remote shell access through a Metasploit module targeting CVE-2011-2523. The report discusses the potential consequences, including unauthorized command execution, data exposure, and system compromise.
+The report identifies a backdoored version of `vsftpd 2.3.4`. In the lab, report obtaining remote shell access through a Metasploit module targeting CVE-2011-2523. The report discusses the potential consequences, including unauthorized command execution, data exposure, and system compromise.
 
 ## Recommendations from the project
 
