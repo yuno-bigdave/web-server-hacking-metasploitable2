@@ -1,6 +1,6 @@
 # Web Server Hacking: Metasploitable 2 Case Study
 
-A group ethical-hacking project documenting a controlled penetration-testing exercise against the intentionally vulnerable **Metasploitable 2** virtual machine.
+An ethical-hacking project documenting a controlled penetration-testing exercise against the intentionally vulnerable **Metasploitable 2** virtual machine.
 
 ## Project overview
 
@@ -46,14 +46,12 @@ The report identifies a backdoored version of `vsftpd 2.3.4`. In the lab, the te
 web-server-hacking-metasploitable2/
 ├── README.md
 ├── report/
-│   └── web-server-hacking-group-2-report.pdf
-├── screenshots/
-│   └── .gitkeep
+│   └── web-server-hacking-report.pdf
 ├── .gitignore
 └── LICENSE
 ```
 
-The complete project report is available at [`report/web-server-hacking-group-2-report.pdf`](report/web-server-hacking-group-2-report.pdf).
+The complete project report is available at [`report/web-server-hacking-report.pdf`](report/web-server-hacking-report.pdf).
 
 ## Scope and responsible-use statement
 
@@ -61,9 +59,9 @@ This work was conducted as an educational exercise in an isolated virtual lab us
 
 ## Project credit
 
-**Group 2 — Ethical Hacking**  
+**Ethical Hacking**  
 **Project:** Web Server Hacking  
 **Case study:** Metasploitable 2  
 **Date stated in report:** January 2026
 
-Refer to the PDF for the group's original presentation/report and references.
+Refer to the PDF for the original presentation/report and references.
